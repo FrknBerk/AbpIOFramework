@@ -1,0 +1,23 @@
+{
+  "culture": "en",
+  "texts": {
+    "Menu:Home": "Home",
+    "Welcome": "Welcome",
+    "LongWelcomeMessage": "Welcome to the application. This is a startup project based on the ABP framework. For more information, visit abp.io.",
+    "Menu:StudentStore": "Student Store",
+    "Menu:Students": "Students",
+    "Actions": "Actions",
+    "Close": "Close",
+    "Delete": "Delete",
+    "Edit": "Edit",
+    "NewStudent": "New Student",
+    "FirstName": "FirstName",
+    "LastName": "LastName",
+    "Phone": "Phone",
+    "CreationTime": "Creation time",
+    "AreYouSure": "Are you sure?",
+    "AreYouSureToDelete": "Are you sure you want to delete this item?",
+    "Enum:StudentType:0": "User",
+    "Enum:StudentType:1": "Admin"
+  }
+}
