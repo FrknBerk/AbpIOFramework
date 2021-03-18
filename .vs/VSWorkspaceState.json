@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\aspnet-core",
+    "\\aspnet-core\\src",
+    "\\aspnet-core\\src\\Acme.StudentStore.Application.Contracts",
+    "\\aspnet-core\\src\\Acme.StudentStore.Application.Contracts\\Students"
+  ],
+  "SelectedNode": "\\aspnet-core\\Acme.StudentStore.sln",
+  "PreviewInSolutionExplorer": false
+}
