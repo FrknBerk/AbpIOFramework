@@ -1,0 +1,23 @@
+﻿{
+  "culture": "tr",
+  "texts": {
+    "Menu:Home": "Ana sayfa",
+    "Welcome": "Hoşgeldiniz",
+    "LongWelcomeMessage": "Uygulamaya hoşgeldiniz. Bu, ABP framework'ü üzerine bina edilmiş bir başlangıç projesidir. Daha fazla bilgi için abp.io adresini ziyaret edebilirsiniz.",
+    "Menu:StudentStore": "Öğreci CRUD",
+    "Menu:Students": "Öğrenciler",
+    "Actions": "İşlemler",
+    "Close": "Kapat",
+    "Delete": "Sil",
+    "Edit": "Düzenle",
+    "NewStudent": "Yeni Öğrenci",
+    "FirstName": "Ad",
+    "LastName": "Soyad",
+    "Phone": "Telefon",
+    "CreationTime": "Creation time",
+    "AreYouSure": "Emin misin?",
+    "AreYouSureToDelete": "Silmek istediğinize emin misiniz?",
+    "Enum:StudentType:0": "Kullanıcı",
+    "Enum:StudentType:1": "Admin"
+  }
+}
